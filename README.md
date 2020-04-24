@@ -1,14 +1,16 @@
 # vanillaWebProjects
 Projects built with HTML, CSS &amp; JavaScript.
 
-Play Online [Pig Game](http://sprodduturi.myweb.usf.edu/pigindex.html)
+Below are the links for some of the projects. 
 
-The Rules
+[Pig Game](http://sprodduturi.myweb.usf.edu/pigindex.html)
 
-A player rolls two dice. The sum gives them a score for that turn. They can bank the turn score into their total score and end their turn, or they can roll again to try to add to their turn score.
+[Finddit](http://sprodduturi.myweb.usf.edu/Findditindex.html)
 
-If either of the two dice is a 1, they are a Pig. Their score for that turn is reset to 0 their turn ends.
+[NumberFacts](http://sprodduturi.myweb.usf.edu/NumberFactsIndex.html)
 
-If both dice are a 1 their TOTAL score is reset to 0 and their turn ends.
+[ColorGame](http://sprodduturi.myweb.usf.edu/colorGame.html)
 
-If they roll doubles of any other kind, they are compelled to roll again and cannot bank.
+[My Tunes](http://sprodduturi.myweb.usf.edu/mytunesindex.html)
+
+[To-do-List](http://sprodduturi.myweb.usf.edu/todoindex.html)
